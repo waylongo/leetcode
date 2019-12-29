@@ -14,7 +14,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1VfvOVAsUWi8NQ1jwhacxhK2S8h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
@@ -105,22 +111,22 @@
       <screen x="0" y="27" width="2560" height="973" />
     </state>
     <state x="1425" y="322" width="636" height="391" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.2560.973@0.27.2560.973" timestamp="1577660573296" />
-    <state width="1587" height="130" key="GridCell.Tab.0.bottom" timestamp="1577660509718">
+    <state width="1653" height="238" key="GridCell.Tab.0.bottom" timestamp="1577662270496">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state width="1587" height="130" key="GridCell.Tab.0.bottom/0.27.2560.973@0.27.2560.973" timestamp="1577660509718" />
-    <state width="1587" height="130" key="GridCell.Tab.0.center" timestamp="1577660509718">
+    <state width="1653" height="238" key="GridCell.Tab.0.bottom/0.27.2560.973@0.27.2560.973" timestamp="1577662270496" />
+    <state width="1653" height="238" key="GridCell.Tab.0.center" timestamp="1577662270496">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state width="1587" height="130" key="GridCell.Tab.0.center/0.27.2560.973@0.27.2560.973" timestamp="1577660509718" />
-    <state width="1587" height="130" key="GridCell.Tab.0.left" timestamp="1577660509718">
+    <state width="1653" height="238" key="GridCell.Tab.0.center/0.27.2560.973@0.27.2560.973" timestamp="1577662270496" />
+    <state width="1653" height="238" key="GridCell.Tab.0.left" timestamp="1577662270496">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state width="1587" height="130" key="GridCell.Tab.0.left/0.27.2560.973@0.27.2560.973" timestamp="1577660509718" />
-    <state width="1587" height="130" key="GridCell.Tab.0.right" timestamp="1577660509718">
+    <state width="1653" height="238" key="GridCell.Tab.0.left/0.27.2560.973@0.27.2560.973" timestamp="1577662270496" />
+    <state width="1653" height="238" key="GridCell.Tab.0.right" timestamp="1577662270496">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state width="1587" height="130" key="GridCell.Tab.0.right/0.27.2560.973@0.27.2560.973" timestamp="1577660509718" />
+    <state width="1653" height="238" key="GridCell.Tab.0.right/0.27.2560.973@0.27.2560.973" timestamp="1577662270496" />
     <state x="1014" y="27" width="1536" height="973" key="SettingsEditor" timestamp="1577658016638">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
@@ -129,5 +135,9 @@
       <screen x="0" y="27" width="2560" height="973" />
     </state>
     <state x="1000" y="86" width="1455" height="914" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.2560.973@0.27.2560.973" timestamp="1577658174964" />
+    <state x="1350" y="400" width="731" height="233" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577662265795">
+      <screen x="0" y="27" width="2560" height="973" />
+    </state>
+    <state x="1350" y="400" width="731" height="233" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.2560.973@0.27.2560.973" timestamp="1577662265795" />
   </component>
 </project>
