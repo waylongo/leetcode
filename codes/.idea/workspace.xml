@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41945ef8-4e60-4139-9888-a0469ed5fdce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VfvOVAsUWi8NQ1jwhacxhK2S8h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="RunManager" selected="Python.1_single_link_list">
+    <configuration name="0_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1_single_link_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_single_link_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1_single_link_list" />
+        <item itemvalue="Python.0_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41945ef8-4e60-4139-9888-a0469ed5fdce" name="Default Changelist" comment="" />
+      <created>1577656931775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577656931775</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1425" y="322" width="636" height="391" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1577660573296">
+      <screen x="0" y="27" width="2560" height="973" />
+    </state>
+    <state x="1425" y="322" width="636" height="391" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.2560.973@0.27.2560.973" timestamp="1577660573296" />
+    <state width="1587" height="130" key="GridCell.Tab.0.bottom" timestamp="1577660509718">
+      <screen x="0" y="27" width="2560" height="973" />
+    </state>
+    <state width="1587" height="130" key="GridCell.Tab.0.bottom/0.27.2560.973@0.27.2560.973" timestamp="1577660509718" />
+    <state width="1587" height="130" key="GridCell.Tab.0.center" timestamp="1577660509718">
+      <screen x="0" y="27" width="2560" height="973" />
+    </state>
+    <state width="1587" height="130" key="GridCell.Tab.0.center/0.27.2560.973@0.27.2560.973" timestamp="1577660509718" />
+    <state width="1587" height="130" key="GridCell.Tab.0.left" timestamp="1577660509718">
+      <screen x="0" y="27" width="2560" height="973" />
+    </state>
+    <state width="1587" height="130" key="GridCell.Tab.0.left/0.27.2560.973@0.27.2560.973" timestamp="1577660509718" />
+    <state width="1587" height="130" key="GridCell.Tab.0.right" timestamp="1577660509718">
+      <screen x="0" y="27" width="2560" height="973" />
+    </state>
+    <state width="1587" height="130" key="GridCell.Tab.0.right/0.27.2560.973@0.27.2560.973" timestamp="1577660509718" />
+    <state x="1014" y="27" width="1536" height="973" key="SettingsEditor" timestamp="1577658016638">
+      <screen x="0" y="27" width="2560" height="973" />
+    </state>
+    <state x="1014" y="27" width="1536" height="973" key="SettingsEditor/0.27.2560.973@0.27.2560.973" timestamp="1577658016638" />
+    <state x="1000" y="86" width="1455" height="914" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577658174964">
+      <screen x="0" y="27" width="2560" height="973" />
+    </state>
+    <state x="1000" y="86" width="1455" height="914" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.2560.973@0.27.2560.973" timestamp="1577658174964" />
+  </component>
+</project>
