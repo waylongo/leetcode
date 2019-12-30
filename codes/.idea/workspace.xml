@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41945ef8-4e60-4139-9888-a0469ed5fdce" name="Default Changelist" comment="update test.py">
-      <change afterPath="$PROJECT_DIR$/2_double_link_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_single_link_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_single_link_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_single_cycle_link_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_single_cycle_link_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
-  <component name="RunManager" selected="Python.2_double_link_list">
+  <component name="RunManager" selected="Python.3_single_cycle_link_list">
     <configuration name="0_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,8 +107,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="3_single_cycle_link_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_single_cycle_link_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3_single_cycle_link_list" />
         <item itemvalue="Python.2_double_link_list" />
         <item itemvalue="Python.1_single_link_list" />
         <item itemvalue="Python.0_test" />
@@ -153,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577662366799</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update test.py">
+      <created>1577665919023</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577665919023</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,46 +204,46 @@
       <screen x="0" y="27" width="2560" height="973" />
     </state>
     <state x="1269" y="27" width="981" height="973" key="#2_double_link_list/0.27.2560.973@0.27.2560.973" timestamp="1577663620641" />
-    <state x="1425" y="322" width="636" height="391" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1577660573296">
+    <state x="1425" y="322" width="636" height="431" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1577733861925">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state x="1425" y="322" width="636" height="391" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.2560.973@0.27.2560.973" timestamp="1577660573296" />
-    <state x="1109" y="27" width="1203" height="973" key="CommitChangelistDialog2" timestamp="1577662622820">
+    <state x="1425" y="322" width="636" height="431" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.2560.973@0.27.2560.973" timestamp="1577733861925" />
+    <state x="1109" y="27" width="1203" height="973" key="CommitChangelistDialog2" timestamp="1577733307993">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state x="1109" y="27" width="1203" height="973" key="CommitChangelistDialog2/0.27.2560.973@0.27.2560.973" timestamp="1577662622820" />
-    <state width="1554" height="182" key="GridCell.Tab.0.bottom" timestamp="1577665903698">
+    <state x="1109" y="27" width="1203" height="973" key="CommitChangelistDialog2/0.27.2560.973@0.27.2560.973" timestamp="1577733307993" />
+    <state width="1671" height="100" key="GridCell.Tab.0.bottom" timestamp="1577736676441">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state width="1554" height="182" key="GridCell.Tab.0.bottom/0.27.2560.973@0.27.2560.973" timestamp="1577665903698" />
-    <state width="1554" height="182" key="GridCell.Tab.0.center" timestamp="1577665903698">
+    <state width="1671" height="100" key="GridCell.Tab.0.bottom/0.27.2560.973@0.27.2560.973" timestamp="1577736676441" />
+    <state width="1671" height="100" key="GridCell.Tab.0.center" timestamp="1577736676441">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state width="1554" height="182" key="GridCell.Tab.0.center/0.27.2560.973@0.27.2560.973" timestamp="1577665903698" />
-    <state width="1554" height="182" key="GridCell.Tab.0.left" timestamp="1577665903697">
+    <state width="1671" height="100" key="GridCell.Tab.0.center/0.27.2560.973@0.27.2560.973" timestamp="1577736676441" />
+    <state width="1671" height="100" key="GridCell.Tab.0.left" timestamp="1577736676440">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state width="1554" height="182" key="GridCell.Tab.0.left/0.27.2560.973@0.27.2560.973" timestamp="1577665903697" />
-    <state width="1554" height="182" key="GridCell.Tab.0.right" timestamp="1577665903698">
+    <state width="1671" height="100" key="GridCell.Tab.0.left/0.27.2560.973@0.27.2560.973" timestamp="1577736676440" />
+    <state width="1671" height="100" key="GridCell.Tab.0.right" timestamp="1577736676441">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state width="1554" height="182" key="GridCell.Tab.0.right/0.27.2560.973@0.27.2560.973" timestamp="1577665903698" />
+    <state width="1671" height="100" key="GridCell.Tab.0.right/0.27.2560.973@0.27.2560.973" timestamp="1577736676441" />
     <state x="1014" y="27" width="1536" height="973" key="SettingsEditor" timestamp="1577658016638">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
     <state x="1014" y="27" width="1536" height="973" key="SettingsEditor/0.27.2560.973@0.27.2560.973" timestamp="1577658016638" />
-    <state x="1110" y="124" width="1200" height="786" key="Vcs.Push.Dialog.v2" timestamp="1577662378965">
+    <state x="1110" y="124" width="1200" height="786" key="Vcs.Push.Dialog.v2" timestamp="1577665920970">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state x="1110" y="124" width="1200" height="786" key="Vcs.Push.Dialog.v2/0.27.2560.973@0.27.2560.973" timestamp="1577662378965" />
+    <state x="1110" y="124" width="1200" height="786" key="Vcs.Push.Dialog.v2/0.27.2560.973@0.27.2560.973" timestamp="1577665920970" />
     <state x="1000" y="86" width="1455" height="914" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577658174964">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
     <state x="1000" y="86" width="1455" height="914" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.2560.973@0.27.2560.973" timestamp="1577658174964" />
-    <state x="1350" y="400" width="731" height="233" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577662491288">
+    <state x="1350" y="400" width="731" height="233" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577733282162">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state x="1350" y="400" width="731" height="233" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.2560.973@0.27.2560.973" timestamp="1577662491288" />
+    <state x="1350" y="400" width="731" height="233" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.2560.973@0.27.2560.973" timestamp="1577733282162" />
     <state x="1186" y="25" width="1055" height="1470" key="search.everywhere.popup" timestamp="1577663653702">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
