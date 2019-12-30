@@ -58,7 +58,7 @@ class SingleLinkList(object):
         """insert item on pos index"""
         if pos <= 0:
             self.add(item)
-        elif pos >= (self.length() - 1):
+        elif pos > (self.length() - 1):
             self.append(item)
         else:
             node = SingleNode(item)
