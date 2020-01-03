@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41945ef8-4e60-4139-9888-a0469ed5fdce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4_stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_dequeue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_bubble_sort.py" afterDir="false" />
+    <list default="true" id="41945ef8-4e60-4139-9888-a0469ed5fdce" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +29,7 @@
   </component>
   <component name="ProjectId" id="1VfvOVAsUWi8NQ1jwhacxhK2S8h" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -43,6 +40,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
@@ -213,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577736730717</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1577748852459</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577748852459</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,7 +237,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update test.py" />
     <MESSAGE value="update single cycle list" />
-    <option name="LAST_COMMIT_MESSAGE" value="update single cycle list" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1269" y="27" width="981" height="973" key="#2_double_link_list" timestamp="1577663620641">
@@ -243,42 +249,46 @@
       <screen x="0" y="27" width="2560" height="973" />
     </state>
     <state x="1425" y="322" width="636" height="431" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.2560.973@0.27.2560.973" timestamp="1577733861925" />
-    <state x="1109" y="27" width="1203" height="973" key="CommitChangelistDialog2" timestamp="1577736730686">
+    <state x="1109" y="27" width="1203" height="973" key="CommitChangelistDialog2" timestamp="1578012627598">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state x="1109" y="27" width="1203" height="973" key="CommitChangelistDialog2/0.27.2560.973@0.27.2560.973" timestamp="1577736730686" />
-    <state width="1364" height="143" key="GridCell.Tab.0.bottom" timestamp="1577748060981">
+    <state x="1109" y="27" width="1203" height="973" key="CommitChangelistDialog2/0.27.2560.973@0.27.2560.973" timestamp="1578012627598" />
+    <state x="1249" y="159" width="624" height="711" key="FileChooserDialogImpl" timestamp="1578012675569">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state width="1364" height="143" key="GridCell.Tab.0.bottom/0.27.2560.973@0.27.2560.973" timestamp="1577748060981" />
-    <state width="1364" height="143" key="GridCell.Tab.0.center" timestamp="1577748060981">
+    <state x="1249" y="159" width="624" height="711" key="FileChooserDialogImpl/0.27.2560.973@0.27.2560.973" timestamp="1578012675569" />
+    <state width="1364" height="143" key="GridCell.Tab.0.bottom" timestamp="1577748918085">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state width="1364" height="143" key="GridCell.Tab.0.center/0.27.2560.973@0.27.2560.973" timestamp="1577748060981" />
-    <state width="1364" height="143" key="GridCell.Tab.0.left" timestamp="1577748060980">
+    <state width="1364" height="143" key="GridCell.Tab.0.bottom/0.27.2560.973@0.27.2560.973" timestamp="1577748918085" />
+    <state width="1364" height="143" key="GridCell.Tab.0.center" timestamp="1577748918085">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state width="1364" height="143" key="GridCell.Tab.0.left/0.27.2560.973@0.27.2560.973" timestamp="1577748060980" />
-    <state width="1364" height="143" key="GridCell.Tab.0.right" timestamp="1577748060981">
+    <state width="1364" height="143" key="GridCell.Tab.0.center/0.27.2560.973@0.27.2560.973" timestamp="1577748918085" />
+    <state width="1364" height="143" key="GridCell.Tab.0.left" timestamp="1577748918085">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state width="1364" height="143" key="GridCell.Tab.0.right/0.27.2560.973@0.27.2560.973" timestamp="1577748060981" />
+    <state width="1364" height="143" key="GridCell.Tab.0.left/0.27.2560.973@0.27.2560.973" timestamp="1577748918085" />
+    <state width="1364" height="143" key="GridCell.Tab.0.right" timestamp="1577748918085">
+      <screen x="0" y="27" width="2560" height="973" />
+    </state>
+    <state width="1364" height="143" key="GridCell.Tab.0.right/0.27.2560.973@0.27.2560.973" timestamp="1577748918085" />
     <state x="1014" y="27" width="1536" height="973" key="SettingsEditor" timestamp="1577658016638">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
     <state x="1014" y="27" width="1536" height="973" key="SettingsEditor/0.27.2560.973@0.27.2560.973" timestamp="1577658016638" />
-    <state x="1110" y="124" width="1200" height="786" key="Vcs.Push.Dialog.v2" timestamp="1577736733802">
+    <state x="1110" y="124" width="1200" height="786" key="Vcs.Push.Dialog.v2" timestamp="1577748855671">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state x="1110" y="124" width="1200" height="786" key="Vcs.Push.Dialog.v2/0.27.2560.973@0.27.2560.973" timestamp="1577736733802" />
+    <state x="1110" y="124" width="1200" height="786" key="Vcs.Push.Dialog.v2/0.27.2560.973@0.27.2560.973" timestamp="1577748855671" />
     <state x="1000" y="86" width="1455" height="914" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577658174964">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
     <state x="1000" y="86" width="1455" height="914" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.2560.973@0.27.2560.973" timestamp="1577658174964" />
-    <state x="1350" y="400" width="731" height="233" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577733282162">
+    <state x="1350" y="400" width="732" height="237" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578012631797">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
-    <state x="1350" y="400" width="731" height="233" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.2560.973@0.27.2560.973" timestamp="1577733282162" />
+    <state x="1350" y="400" width="732" height="237" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.2560.973@0.27.2560.973" timestamp="1578012631797" />
     <state x="1186" y="25" width="1055" height="1470" key="search.everywhere.popup" timestamp="1577663653702">
       <screen x="0" y="27" width="2560" height="973" />
     </state>
