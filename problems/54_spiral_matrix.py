@@ -31,7 +31,7 @@ class Solution:
         if l == m and r == n:
             # dot
             res.append(A[l][r])
-        el555555555555if l == m:
+        elif l == m:
             # vertical line
             for item in A[l][r:n + 1]:
                 res.append(item)
