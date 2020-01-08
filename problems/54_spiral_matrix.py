@@ -42,6 +42,22 @@ class Solution:
 
         return res
 
+class Solution:
+    def spiralOrder(self, A: List[List[int]]) -> List[int]:
+        res = []
+        while A:
+            if A:
+                res += A.pop(0)
+            if A and A[0]:
+                for i in range(len(A)):
+                    res.append(A[i].pop())
+            if A:
+                res += A.pop()[::-1]
+            if A and A[0]:
+                for i in range(len(A) - 1, 0, -1):
+                    res.append(A[i].pop(0))
+
+        return res
 
 if __name__ == "__main__":
     nums = [[1, 11], [2, 12], [3, 13], [4, 14], [5, 15], [6, 16], [7, 17], [8, 18], [9, 19], [10, 20]]
